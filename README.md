@@ -60,6 +60,7 @@
 ## Part 3: DQN 演算法超參數分析 
 
 本實驗旨在分析深度 Q 網路 (DQN) 中兩個關鍵超參數——**目標網路更新頻率 (Target Network Update Frequency)** 與 **小批量大小 (Minibatch Size)**——對於 Agent 在 `CartPole-v1` 環境中學習效能的影響。
+> **Important Note:** 本部分的程式碼是使用 `gymnasium` 函式庫所開發。此函式庫為 OpenAI `gym` 的官方後繼維護版本。請確保您已安裝 `gymnasium` 以順利執行程式碼。
 
 ---
 
