@@ -29,7 +29,7 @@
 
 ### 實驗結果圖表
 
-![Q-Learning 實驗結果圖](Assignment1_part2.png)
+![Q-Learning 實驗結果圖](/figs/Assignment1_part2.png)
 
 ### 圖表分析與討論
 
